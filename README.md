@@ -1,4 +1,4 @@
-### ⚡ I’m currently working on @Jibres
+### ⚡ Senior Full Stack Engineer
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @Jibres
+- 🔭 I’m currently working on @
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
